@@ -9,7 +9,6 @@ void gotoxy(int,int);
 main() {
 	
 	system("cls");
-	cout << "P";
 
 	gotoxy(3,3);
 
