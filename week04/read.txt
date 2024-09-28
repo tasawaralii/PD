@@ -1,2 +1,2 @@
 1. Learnt to move cursor Position on console Screen.
-2. Learnt The Us of if-else and function.
+2. Learnt The Use of if-else and function.
